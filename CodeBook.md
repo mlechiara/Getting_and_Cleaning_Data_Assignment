@@ -1,11 +1,11 @@
-###Code Book
+### Code Book
 This code book indicates and summarizes the data field in the "tidyDataSet.txt"
 
-##Variable Qualifiers
+## Variable Qualifiers
 + activity - The activity performed by each subject
 + subject - The ID unique to each participant under test
 
-##Measurements
+## Measurements
 + tBodyAccMeanX
 + tBodyAccMeanY
 + tBodyAccMeanZ
